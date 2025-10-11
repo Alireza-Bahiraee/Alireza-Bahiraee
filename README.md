@@ -7,7 +7,7 @@
 - 💡 Practicing problem-solving on [Codewars](https://www.codewars.com/users/your-username) (Kata 5 level) to strengthen Python skills.  
 - 📫 How to reach me: AlirezaBahiraee1999@gmail.com  
  
-
+----
 
 ### 🖥 Skills
 
@@ -17,7 +17,7 @@
 - Python Programming (Beginner)
 - Data Visualization
 - Foundations of Machine Learning (Learning)
-
+----
 ### ⚙️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=Power-BI&color=353535)  ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=Microsoft-SQL-Server&color=353535)  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535)  ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=NumPy&color=353535)  
