@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alireza-bahiraee) [![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white)](https://www.instagram.com/bartleby___?igsh=Nzhud21lZng0cmMx) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:AlirezaBahiraee1999@gmail.com)   [![GitHub](https://img.shields.io/github/followers/Alireza-Bahiraee?label=Follow&style=social)](https://github.com/Alireza-Bahiraee)
 
 - 💻 BI Developer at **Vispar Industrial Group**, specializing in DAX, data modeling, and T-SQL querying.  
-- 🌱 Completed **Python Programming (2023)** course at [PyTopia](https://www.pytopia.ai) and currently working on their project-based Python course to build practical skills.  
 - 💡 Practicing problem-solving on [Codewars](https://www.codewars.com/users/your-username) (Kata 5 level) to strengthen Python skills.  
 - 📫 How to reach me: AlirezaBahiraee1999@gmail.com  
  
@@ -11,12 +10,13 @@
 
 ### 🖥 Skills
 
-- Data Modeling
-- DAX (Power BI)
+- Data Modeling, Data Warehouse Design
+- DAX, MDx
+- SSIS, SSAS
 - T-SQL Querying (Intermediate)
-- Python Programming (Beginner)
-- Data Visualization
+- Python Programming (Intermediate)
 - Foundations of Machine Learning (Learning)
+  
 ----
 ### ⚙️ Tech Stack
 
